@@ -48,7 +48,7 @@ const About = () => {
     },
     {
       title: 'Customer Focus',
-      description: 'We prioritize our customers' needs and satisfaction above all else.'
+      description: "We prioritize our customers' needs and satisfaction above all else."
     },
   ];
 
